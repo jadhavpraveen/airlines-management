@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/airline/auth")
 @RequiredArgsConstructor
 @Slf4j
 public class AirportController {
